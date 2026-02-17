@@ -1,0 +1,7 @@
+{
+  "name": "Hope",
+  "description": "Votre assistante de maison intelligente. Gestion de stock, ménage gamifié et cuisine anti-gaspillage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
